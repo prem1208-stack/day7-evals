@@ -1,4 +1,4 @@
-# Day 7 — Eval Suite for Research Agent
+#  Eval Suite for Research Agent
 
 Day 7 of a 14-day AI builder sprint. An eval suite that scores the Day 5 research agent against multiple test cases. Combines deterministic asserts (citation count, must-include terms, refusal detection) with LLM-as-judge scoring (groundedness).
 
